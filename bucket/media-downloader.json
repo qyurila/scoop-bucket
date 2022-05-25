@@ -6,6 +6,10 @@
     "url": "https://github.com/mhogomchungu/media-downloader/releases/download/2.3.0/MediaDownloader-2.3.0.zip",
     "hash": "e8af3dad68666c6eb44bcd4d15b5ddd2d20500cb28b93364d763703ec4b566bb",
     "extract_dir": "MediaDownloader-2.3.0",
+    "persist": [
+        "3rdParty",
+        "local"
+    ],
     "checkver": "github",
     "shortcuts": [
         [
