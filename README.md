@@ -1,6 +1,6 @@
 # Scoop Bucket by QriLa
 
-[![Tests](https://github.com/QyuriLa/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/QyuriLa/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/QyuriLa/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/QyuriLa/scoop-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/qyurila/scoop-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/qyurila/scoop-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/qyurila/scoop-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/qyurila/scoop-bucket/actions/workflows/excavator.yml)
 
 Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -9,7 +9,7 @@ Personal bucket for [Scoop](https://scoop.sh), the Windows command-line installe
 To add this bucket, run:
 
 ```ps1
-scoop bucket add QyuriLa https://github.com/QyuriLa/scoop-bucket
+scoop bucket add qyurila https://github.com/qyurila/scoop-bucket
 ```
 
 To install an app, do:
