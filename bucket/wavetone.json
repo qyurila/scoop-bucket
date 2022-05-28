@@ -1,0 +1,20 @@
+{
+    "version": "2.66",
+    "description": "A music transcription helper that analyzes audio files and displays the sound like a piano roll.",
+    "homepage": "http://ackiesound.ifdef.jp/download.html#wt",
+    "license": "Freeware",
+    "url": "http://ackiesound.ifdef.jp/data/wavetone266.zip",
+    "hash": "725f7316908b850ce2e2a82fc3b35d282332a4a3b8b824b69910060346f290f1",
+    "extract_dir": "wavetone266",
+    "checkver": "WaveTone ver.(\\d\\.\\d+)",
+    "shortcuts": [
+        [
+            "wavetone.exe",
+            "WaveTone"
+        ]
+    ],
+    "autoupdate": {
+        "url": "http://ackiesound.ifdef.jp/data/wavetone$cleanVersion.zip",
+        "extract_dir": "wavetone$cleanVersion"
+    }
+}
