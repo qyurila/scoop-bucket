@@ -1,6 +1,6 @@
 {
     "version": "2.3.0",
-    "description": "A Qt/C++ front end to youtube-dl",
+    "description": "A Qt/C++ front end to youtube-dl.",
     "homepage": "https://github.com/mhogomchungu/media-downloader",
     "license": "GPL-2.0-or-later",
     "url": "https://github.com/mhogomchungu/media-downloader/releases/download/2.3.0/MediaDownloader-2.3.0.zip",
