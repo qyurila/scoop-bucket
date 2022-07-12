@@ -1,6 +1,6 @@
 // Configure PSScriptAnalyzer settings
 {
-    "[powershell]": {
+    "[powershell][json]": {
         "editor.formatOnSave": true
     },
     "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1",
@@ -10,9 +10,7 @@
     "json.schemas": [
         {
             "url": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-            "fileMatch": [
-                "bucket/*.json"
-            ]
+            "fileMatch": ["bucket/*.json"]
         }
     ],
     "files.exclude": {
@@ -22,5 +20,6 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/tmp": true
-    }
+    },
+    "git.autofetch": true
 }
