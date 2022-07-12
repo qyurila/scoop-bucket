@@ -25,3 +25,4 @@ scoop install <app-name>
 |[media-downloader](https://github.com/mhogomchungu/media-downloader)|A Qt/C++ front end to youtube-dl.|GPL-2.0-or-later|
 |[vocalshifter-le](http://ackiesound.ifdef.jp/download.html#vs)|A lite edition of vocal editing software that can do natural pitch shifting by keeping the formant.|Freeware|
 |[wavetone](http://ackiesound.ifdef.jp/download.html#wt)|A music transcription helper that analyzes audio files and displays the sound like a piano roll.|Freeware|
+|[hackbgrt](https://github.com/Metabolix/HackBGRT)|Windows boot logo changer for UEFI systems.|MIT|
