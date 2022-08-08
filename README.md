@@ -32,3 +32,4 @@ scoop install <app-name>
 |Name|Description|License|
 |----|-----------|-------|
 |[ticktick](https://ticktick.com/home)|Your wonderful to-do & task list to make all things done and get life well organized.|MIT|
+|[inkdrop-demo](https://my.inkdrop.app/demo)|A demo of Inkdrop: Organizing your Markdown notes made simple.|MIT|

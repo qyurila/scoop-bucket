@@ -1,0 +1,35 @@
+{
+    "version": "5.4.1",
+    "description": "A demo of Inkdrop: Organizing your Markdown notes made simple.",
+    "homepage": "https://my.inkdrop.app/demo",
+    "license": "MIT",
+    "notes": [
+        "This demo is intended to provide for users just checking out the Inkdrop's UI without registering an account for free. With this demo, you can NOT:",
+        "- Create more than 5 notes",
+        "- Sync with other devices",
+        "The update of this app can be somewhat delayed as it managed by hands."
+    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://d3ip0rje8grhnl.cloudfront.net/v5.4.1/Inkdrop-demo-5.4.1-Windows.zip",
+            "hash": "2a5a33f934a35549f66036e561367aa23b80c39b0ef00e2911bfd036b1728b41"
+        }
+    },
+    "shortcuts": [
+        [
+            "Inkdrop.exe",
+            "Inkdrop Demo"
+        ]
+    ],
+    "checkver": {
+        "url": "https://gist.github.com/qyurila/f85676b9caeb1917d0f3eecfa2d5fcc0",
+        "regex": "inkdrop-demo: ([\\.\\d]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://d3ip0rje8grhnl.cloudfront.net/v$version/Inkdrop-demo-$version-Windows.zip"
+            }
+        }
+    }
+}
