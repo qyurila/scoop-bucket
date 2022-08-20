@@ -1,10 +1,10 @@
 {
-    "version": "0.12.5",
+    "version": "0.13.1",
     "description": "A free, medium-quality Japanese text-to-speech software.",
     "homepage": "https://voicevox.hiroshiba.jp",
     "license": "https://github.com/VOICEVOX/voicevox/blob/main/LICENSE",
-    "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.12.5/voicevox-windows-directml-0.12.5.zip",
-    "hash": "8d22285ea87daa086f4368abf8f3f532220910d01abbe7b385eee4e027ca49db",
+    "url": "https://github.com/VOICEVOX/voicevox/releases/download/0.13.1/voicevox-windows-directml-0.13.1.zip",
+    "hash": "9a3a4defc7fb3d2a2e0a9398aaf7b9224c7ddeb73d5a89e72bb07267a4b39bfc",
     "extract_dir": "VOICEVOX",
     "shortcuts": [
         [
@@ -12,9 +12,7 @@
             "VOICEVOX"
         ]
     ],
-    "persist": [
-        "presets.yaml"
-    ],
+    "persist": "presets.yaml",
     "checkver": {
         "github": "https://github.com/VOICEVOX/voicevox"
     },
