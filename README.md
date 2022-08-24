@@ -26,7 +26,6 @@ scoop install <app-name>
 |[vocalshifter-le](http://ackiesound.ifdef.jp/download.html#vs)|A lite edition of vocal editing software that can do natural pitch shifting by keeping the formant.|Freeware|
 |[wavetone](http://ackiesound.ifdef.jp/download.html#wt)|A music transcription helper that analyzes audio files and displays the sound like a piano roll.|Freeware|
 |[hackbgrt](https://github.com/Metabolix/HackBGRT)|Windows boot logo changer for UEFI systems.|MIT|
-|[voicevox-directgl](https://voicevox.hiroshiba.jp)|A free, medium-quality Japanese text-to-speech software.|[link](https://github.com/VOICEVOX/voicevox/blob/main/LICENSE)|
 
 ### Apps whose Versions are Managed by Hands
 
