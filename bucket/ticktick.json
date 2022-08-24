@@ -1,5 +1,5 @@
 {
-    "version": "4.2.7.0",
+    "version": "4.2.8.1",
     "description": "Your wonderful to-do & task list to make all things done and get life well organized.",
     "homepage": "https://ticktick.com/home",
     "license": "MIT",
@@ -7,11 +7,11 @@
     "architecture": {
         "64bit": {
             "url": "https://ticktick.com/static/getApp/download?type=win64",
-            "hash": "ce90c5ce9383733dbe430ee2382461dec7073b0b727d2f9a10284d8e46d53758"
+            "hash": "5f2372ff4fb359360d2b73b362fe6fce47d277d9b8c33e63fdb12c45c72408fa"
         },
         "32bit": {
             "url": "https://ticktick.com/static/getApp/download?type=win",
-            "hash": "99a1684881464ea1dfe19542de11ed9aff1a3581aa2340a9a3224deeb921cbd7"
+            "hash": "1dbcb37517efeeea185b2af4603f163034f2c753db5f1ae83ebd32f85d95d9fb"
         }
     },
     "shortcuts": [
