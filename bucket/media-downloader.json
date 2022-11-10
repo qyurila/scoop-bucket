@@ -1,11 +1,11 @@
 {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "description": "A Qt/C++ front end to youtube-dl.",
     "homepage": "https://github.com/mhogomchungu/media-downloader",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/mhogomchungu/media-downloader/releases/download/2.6.0/MediaDownloader-2.6.0.zip",
-    "hash": "c761333dc2025f8285bcf346deec6d23508d18b502c5772ed110a97b33cc0b16",
-    "extract_dir": "MediaDownloader-2.6.0",
+    "url": "https://github.com/mhogomchungu/media-downloader/releases/download/2.7.0/MediaDownloader-2.7.0.zip",
+    "hash": "eac43113f11d38d52e713c44c8543366a333f0beced2d43d6bb3a21891fdd70a",
+    "extract_dir": "MediaDownloader-2.7.0",
     "persist": [
         "3rdParty",
         "local"
