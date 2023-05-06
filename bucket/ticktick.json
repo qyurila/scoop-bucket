@@ -3,7 +3,6 @@
     "description": "Your wonderful to-do & task list to make all things done and get life well organized.",
     "homepage": "https://ticktick.com/home",
     "license": "MIT",
-    "notes": "The update of this app can be somewhat delayed as it managed by hands.",
     "architecture": {
         "64bit": {
             "url": "https://ticktick.com/static/getApp/download?type=win64",
