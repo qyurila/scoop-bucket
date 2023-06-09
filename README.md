@@ -18,6 +18,10 @@ To install an app, do:
 scoop install <app-name>
 ```
 
+## Manual Version Info Provider
+
+Some apps are maintained via updating [Manual Version Info Provider](https://github.com/qyurila/scoop-bucket/wiki/Manual-Version-Info-Provider) page because they don't have any official version infomation source. You can edit the page by yourself if there is any outdated info!
+
 ## Apps
 
 |Name|Description|License|
